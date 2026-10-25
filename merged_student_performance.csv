@@ -1,0 +1,181 @@
+student_id,subject_id,marks,student_name,email,department_id,semester,department_name,subject_name
+1001,101,86.0,Aarav Sharma,aarav1001@example.com,1,6,Computer Science,Python
+1001,102,89.0,Aarav Sharma,aarav1001@example.com,1,6,Computer Science,Database Management
+1001,103,92.0,Aarav Sharma,aarav1001@example.com,1,6,Computer Science,Statistics
+1001,104,95.0,Aarav Sharma,aarav1001@example.com,1,6,Computer Science,Data Analytics
+1001,105,37.0,Aarav Sharma,aarav1001@example.com,1,6,Computer Science,Computer Networks
+1001,106,40.0,Aarav Sharma,aarav1001@example.com,1,6,Computer Science,Mathematics
+1002,101,93.0,Ananya Das,ananya1002@example.com,1,6,Computer Science,Python
+1002,102,35.0,Ananya Das,ananya1002@example.com,1,6,Computer Science,Database Management
+1002,103,38.0,Ananya Das,ananya1002@example.com,1,6,Computer Science,Statistics
+1002,104,41.0,Ananya Das,ananya1002@example.com,1,6,Computer Science,Data Analytics
+1002,105,44.0,Ananya Das,ananya1002@example.com,1,6,Computer Science,Computer Networks
+1002,106,47.0,Ananya Das,ananya1002@example.com,1,6,Computer Science,Mathematics
+1003,101,39.0,Rohan Roy,rohan1003@example.com,1,5,Computer Science,Python
+1003,102,42.0,Rohan Roy,rohan1003@example.com,1,5,Computer Science,Database Management
+1003,103,45.0,Rohan Roy,rohan1003@example.com,1,5,Computer Science,Statistics
+1003,104,48.0,Rohan Roy,rohan1003@example.com,1,5,Computer Science,Data Analytics
+1003,105,51.0,Rohan Roy,rohan1003@example.com,1,5,Computer Science,Computer Networks
+1003,106,54.0,Rohan Roy,rohan1003@example.com,1,5,Computer Science,Mathematics
+1004,101,46.0,Priya Sen,priya1004@example.com,1,6,Computer Science,Python
+1004,102,49.0,Priya Sen,priya1004@example.com,1,6,Computer Science,Database Management
+1004,103,52.0,Priya Sen,priya1004@example.com,1,6,Computer Science,Statistics
+1004,104,55.0,Priya Sen,priya1004@example.com,1,6,Computer Science,Data Analytics
+1004,105,58.0,Priya Sen,priya1004@example.com,1,6,Computer Science,Computer Networks
+1004,106,61.0,Priya Sen,priya1004@example.com,1,6,Computer Science,Mathematics
+1005,101,53.0,Arjun Dey,arjun1005@example.com,1,4,Computer Science,Python
+1005,102,56.0,Arjun Dey,arjun1005@example.com,1,4,Computer Science,Database Management
+1005,103,59.0,Arjun Dey,arjun1005@example.com,1,4,Computer Science,Statistics
+1005,104,62.0,Arjun Dey,arjun1005@example.com,1,4,Computer Science,Data Analytics
+1005,105,65.0,Arjun Dey,arjun1005@example.com,1,4,Computer Science,Computer Networks
+1005,106,68.0,Arjun Dey,arjun1005@example.com,1,4,Computer Science,Mathematics
+1006,101,60.0,Ishita Paul,ishita1006@example.com,1,6,Computer Science,Python
+1006,102,63.0,Ishita Paul,ishita1006@example.com,1,6,Computer Science,Database Management
+1006,103,66.0,Ishita Paul,ishita1006@example.com,1,6,Computer Science,Statistics
+1006,104,69.0,Ishita Paul,ishita1006@example.com,1,6,Computer Science,Data Analytics
+1006,105,72.0,Ishita Paul,ishita1006@example.com,1,6,Computer Science,Computer Networks
+1006,106,75.0,Ishita Paul,ishita1006@example.com,1,6,Computer Science,Mathematics
+1007,101,67.0,Rahul Ghosh,rahul1007@example.com,1,5,Computer Science,Python
+1007,102,70.0,Rahul Ghosh,rahul1007@example.com,1,5,Computer Science,Database Management
+1007,103,73.0,Rahul Ghosh,rahul1007@example.com,1,5,Computer Science,Statistics
+1007,104,76.0,Rahul Ghosh,rahul1007@example.com,1,5,Computer Science,Data Analytics
+1007,105,79.0,Rahul Ghosh,rahul1007@example.com,1,5,Computer Science,Computer Networks
+1007,106,82.0,Rahul Ghosh,rahul1007@example.com,1,5,Computer Science,Mathematics
+1008,101,74.0,Sneha Bose,sneha1008@example.com,1,6,Computer Science,Python
+1008,102,77.0,Sneha Bose,sneha1008@example.com,1,6,Computer Science,Database Management
+1008,103,80.0,Sneha Bose,sneha1008@example.com,1,6,Computer Science,Statistics
+1008,104,83.0,Sneha Bose,sneha1008@example.com,1,6,Computer Science,Data Analytics
+1008,105,86.0,Sneha Bose,sneha1008@example.com,1,6,Computer Science,Computer Networks
+1008,106,89.0,Sneha Bose,sneha1008@example.com,1,6,Computer Science,Mathematics
+1009,101,81.0,Aditya Roy,aditya1009@example.com,2,6,Information Technology,Python
+1009,102,84.0,Aditya Roy,aditya1009@example.com,2,6,Information Technology,Database Management
+1009,103,87.0,Aditya Roy,aditya1009@example.com,2,6,Information Technology,Statistics
+1009,104,90.0,Aditya Roy,aditya1009@example.com,2,6,Information Technology,Data Analytics
+1009,105,93.0,Aditya Roy,aditya1009@example.com,2,6,Information Technology,Computer Networks
+1009,106,35.0,Aditya Roy,aditya1009@example.com,2,6,Information Technology,Mathematics
+1010,101,88.0,Riya Das,riya1010@example.com,2,5,Information Technology,Python
+1010,102,91.0,Riya Das,riya1010@example.com,2,5,Information Technology,Database Management
+1010,103,94.0,Riya Das,riya1010@example.com,2,5,Information Technology,Statistics
+1010,104,36.0,Riya Das,riya1010@example.com,2,5,Information Technology,Data Analytics
+1010,105,39.0,Riya Das,riya1010@example.com,2,5,Information Technology,Computer Networks
+1010,106,42.0,Riya Das,riya1010@example.com,2,5,Information Technology,Mathematics
+1011,101,95.0,Sayan Mitra,sayan1011@example.com,2,6,Information Technology,Python
+1011,102,37.0,Sayan Mitra,sayan1011@example.com,2,6,Information Technology,Database Management
+1011,103,40.0,Sayan Mitra,sayan1011@example.com,2,6,Information Technology,Statistics
+1011,104,43.0,Sayan Mitra,sayan1011@example.com,2,6,Information Technology,Data Analytics
+1011,105,46.0,Sayan Mitra,sayan1011@example.com,2,6,Information Technology,Computer Networks
+1011,106,49.0,Sayan Mitra,sayan1011@example.com,2,6,Information Technology,Mathematics
+1012,101,41.0,Meera Dutta,meera1012@example.com,2,4,Information Technology,Python
+1012,102,44.0,Meera Dutta,meera1012@example.com,2,4,Information Technology,Database Management
+1012,103,47.0,Meera Dutta,meera1012@example.com,2,4,Information Technology,Statistics
+1012,104,50.0,Meera Dutta,meera1012@example.com,2,4,Information Technology,Data Analytics
+1012,105,53.0,Meera Dutta,meera1012@example.com,2,4,Information Technology,Computer Networks
+1012,106,56.0,Meera Dutta,meera1012@example.com,2,4,Information Technology,Mathematics
+1013,101,48.0,Kunal Pal,kunal1013@example.com,2,6,Information Technology,Python
+1013,102,51.0,Kunal Pal,kunal1013@example.com,2,6,Information Technology,Database Management
+1013,103,54.0,Kunal Pal,kunal1013@example.com,2,6,Information Technology,Statistics
+1013,104,57.0,Kunal Pal,kunal1013@example.com,2,6,Information Technology,Data Analytics
+1013,105,60.0,Kunal Pal,kunal1013@example.com,2,6,Information Technology,Computer Networks
+1013,106,63.0,Kunal Pal,kunal1013@example.com,2,6,Information Technology,Mathematics
+1014,101,55.0,Diya Sen,diya1014@example.com,2,5,Information Technology,Python
+1014,102,58.0,Diya Sen,diya1014@example.com,2,5,Information Technology,Database Management
+1014,103,61.0,Diya Sen,diya1014@example.com,2,5,Information Technology,Statistics
+1014,104,64.0,Diya Sen,diya1014@example.com,2,5,Information Technology,Data Analytics
+1014,105,67.0,Diya Sen,diya1014@example.com,2,5,Information Technology,Computer Networks
+1014,106,70.0,Diya Sen,diya1014@example.com,2,5,Information Technology,Mathematics
+1015,101,62.0,Ayan Ghosh,ayan1015@example.com,2,6,Information Technology,Python
+1015,102,65.0,Ayan Ghosh,ayan1015@example.com,2,6,Information Technology,Database Management
+1015,103,68.0,Ayan Ghosh,ayan1015@example.com,2,6,Information Technology,Statistics
+1015,104,71.0,Ayan Ghosh,ayan1015@example.com,2,6,Information Technology,Data Analytics
+1015,105,74.0,Ayan Ghosh,ayan1015@example.com,2,6,Information Technology,Computer Networks
+1015,106,77.0,Ayan Ghosh,ayan1015@example.com,2,6,Information Technology,Mathematics
+1016,101,69.0,Nisha Roy,nisha1016@example.com,2,6,Information Technology,Python
+1016,102,72.0,Nisha Roy,nisha1016@example.com,2,6,Information Technology,Database Management
+1016,103,75.0,Nisha Roy,nisha1016@example.com,2,6,Information Technology,Statistics
+1016,104,78.0,Nisha Roy,nisha1016@example.com,2,6,Information Technology,Data Analytics
+1016,105,81.0,Nisha Roy,nisha1016@example.com,2,6,Information Technology,Computer Networks
+1016,106,84.0,Nisha Roy,nisha1016@example.com,2,6,Information Technology,Mathematics
+1017,101,76.0,Soham Das,soham1017@example.com,3,6,Electronics,Python
+1017,102,79.0,Soham Das,soham1017@example.com,3,6,Electronics,Database Management
+1017,103,82.0,Soham Das,soham1017@example.com,3,6,Electronics,Statistics
+1017,104,85.0,Soham Das,soham1017@example.com,3,6,Electronics,Data Analytics
+1017,105,88.0,Soham Das,soham1017@example.com,3,6,Electronics,Computer Networks
+1017,106,91.0,Soham Das,soham1017@example.com,3,6,Electronics,Mathematics
+1018,101,83.0,Tanya Paul,tanya1018@example.com,3,5,Electronics,Python
+1018,102,86.0,Tanya Paul,tanya1018@example.com,3,5,Electronics,Database Management
+1018,103,89.0,Tanya Paul,tanya1018@example.com,3,5,Electronics,Statistics
+1018,104,92.0,Tanya Paul,tanya1018@example.com,3,5,Electronics,Data Analytics
+1018,105,95.0,Tanya Paul,tanya1018@example.com,3,5,Electronics,Computer Networks
+1018,106,37.0,Tanya Paul,tanya1018@example.com,3,5,Electronics,Mathematics
+1019,101,90.0,Abir Bose,abir1019@example.com,3,6,Electronics,Python
+1019,102,93.0,Abir Bose,abir1019@example.com,3,6,Electronics,Database Management
+1019,103,35.0,Abir Bose,abir1019@example.com,3,6,Electronics,Statistics
+1019,104,38.0,Abir Bose,abir1019@example.com,3,6,Electronics,Data Analytics
+1019,105,41.0,Abir Bose,abir1019@example.com,3,6,Electronics,Computer Networks
+1019,106,44.0,Abir Bose,abir1019@example.com,3,6,Electronics,Mathematics
+1020,101,36.0,Moumita Dey,moumita1020@example.com,3,4,Electronics,Python
+1020,102,39.0,Moumita Dey,moumita1020@example.com,3,4,Electronics,Database Management
+1020,103,42.0,Moumita Dey,moumita1020@example.com,3,4,Electronics,Statistics
+1020,104,45.0,Moumita Dey,moumita1020@example.com,3,4,Electronics,Data Analytics
+1020,105,48.0,Moumita Dey,moumita1020@example.com,3,4,Electronics,Computer Networks
+1020,106,51.0,Moumita Dey,moumita1020@example.com,3,4,Electronics,Mathematics
+1021,101,43.0,Ritwik Sen,ritwik1021@example.com,3,6,Electronics,Python
+1021,102,46.0,Ritwik Sen,ritwik1021@example.com,3,6,Electronics,Database Management
+1021,103,49.0,Ritwik Sen,ritwik1021@example.com,3,6,Electronics,Statistics
+1021,104,52.0,Ritwik Sen,ritwik1021@example.com,3,6,Electronics,Data Analytics
+1021,105,55.0,Ritwik Sen,ritwik1021@example.com,3,6,Electronics,Computer Networks
+1021,106,58.0,Ritwik Sen,ritwik1021@example.com,3,6,Electronics,Mathematics
+1022,101,50.0,Srija Roy,srija1022@example.com,3,5,Electronics,Python
+1022,102,53.0,Srija Roy,srija1022@example.com,3,5,Electronics,Database Management
+1022,103,56.0,Srija Roy,srija1022@example.com,3,5,Electronics,Statistics
+1022,104,59.0,Srija Roy,srija1022@example.com,3,5,Electronics,Data Analytics
+1022,105,62.0,Srija Roy,srija1022@example.com,3,5,Electronics,Computer Networks
+1022,106,65.0,Srija Roy,srija1022@example.com,3,5,Electronics,Mathematics
+1023,101,57.0,Debjit Pal,debjit1023@example.com,3,6,Electronics,Python
+1023,102,60.0,Debjit Pal,debjit1023@example.com,3,6,Electronics,Database Management
+1023,103,63.0,Debjit Pal,debjit1023@example.com,3,6,Electronics,Statistics
+1023,104,66.0,Debjit Pal,debjit1023@example.com,3,6,Electronics,Data Analytics
+1023,105,69.0,Debjit Pal,debjit1023@example.com,3,6,Electronics,Computer Networks
+1023,106,72.0,Debjit Pal,debjit1023@example.com,3,6,Electronics,Mathematics
+1024,101,64.0,Kavya Sharma,kavya1024@example.com,4,6,Mechanical,Python
+1024,102,67.0,Kavya Sharma,kavya1024@example.com,4,6,Mechanical,Database Management
+1024,103,70.0,Kavya Sharma,kavya1024@example.com,4,6,Mechanical,Statistics
+1024,104,73.0,Kavya Sharma,kavya1024@example.com,4,6,Mechanical,Data Analytics
+1024,105,76.0,Kavya Sharma,kavya1024@example.com,4,6,Mechanical,Computer Networks
+1024,106,79.0,Kavya Sharma,kavya1024@example.com,4,6,Mechanical,Mathematics
+1025,101,71.0,Vivek Das,vivek1025@example.com,4,5,Mechanical,Python
+1025,102,74.0,Vivek Das,vivek1025@example.com,4,5,Mechanical,Database Management
+1025,103,77.0,Vivek Das,vivek1025@example.com,4,5,Mechanical,Statistics
+1025,104,80.0,Vivek Das,vivek1025@example.com,4,5,Mechanical,Data Analytics
+1025,105,83.0,Vivek Das,vivek1025@example.com,4,5,Mechanical,Computer Networks
+1025,106,86.0,Vivek Das,vivek1025@example.com,4,5,Mechanical,Mathematics
+1026,101,78.0,Pallavi Roy,pallavi1026@example.com,4,6,Mechanical,Python
+1026,102,81.0,Pallavi Roy,pallavi1026@example.com,4,6,Mechanical,Database Management
+1026,103,84.0,Pallavi Roy,pallavi1026@example.com,4,6,Mechanical,Statistics
+1026,104,87.0,Pallavi Roy,pallavi1026@example.com,4,6,Mechanical,Data Analytics
+1026,105,90.0,Pallavi Roy,pallavi1026@example.com,4,6,Mechanical,Computer Networks
+1026,106,93.0,Pallavi Roy,pallavi1026@example.com,4,6,Mechanical,Mathematics
+1027,101,85.0,Sourav Dey,sourav1027@example.com,4,4,Mechanical,Python
+1027,102,88.0,Sourav Dey,sourav1027@example.com,4,4,Mechanical,Database Management
+1027,103,91.0,Sourav Dey,sourav1027@example.com,4,4,Mechanical,Statistics
+1027,104,94.0,Sourav Dey,sourav1027@example.com,4,4,Mechanical,Data Analytics
+1027,105,36.0,Sourav Dey,sourav1027@example.com,4,4,Mechanical,Computer Networks
+1027,106,39.0,Sourav Dey,sourav1027@example.com,4,4,Mechanical,Mathematics
+1028,101,92.0,Aditi Bose,aditi1028@example.com,4,6,Mechanical,Python
+1028,102,95.0,Aditi Bose,aditi1028@example.com,4,6,Mechanical,Database Management
+1028,103,37.0,Aditi Bose,aditi1028@example.com,4,6,Mechanical,Statistics
+1028,104,40.0,Aditi Bose,aditi1028@example.com,4,6,Mechanical,Data Analytics
+1028,105,43.0,Aditi Bose,aditi1028@example.com,4,6,Mechanical,Computer Networks
+1028,106,46.0,Aditi Bose,aditi1028@example.com,4,6,Mechanical,Mathematics
+1029,101,38.0,Manish Sen,manish1029@example.com,4,5,Mechanical,Python
+1029,102,41.0,Manish Sen,manish1029@example.com,4,5,Mechanical,Database Management
+1029,103,44.0,Manish Sen,manish1029@example.com,4,5,Mechanical,Statistics
+1029,104,47.0,Manish Sen,manish1029@example.com,4,5,Mechanical,Data Analytics
+1029,105,50.0,Manish Sen,manish1029@example.com,4,5,Mechanical,Computer Networks
+1029,106,53.0,Manish Sen,manish1029@example.com,4,5,Mechanical,Mathematics
+1030,101,45.0,Tithi Ghosh,tithi1030@example.com,4,6,Mechanical,Python
+1030,102,48.0,Tithi Ghosh,tithi1030@example.com,4,6,Mechanical,Database Management
+1030,103,51.0,Tithi Ghosh,tithi1030@example.com,4,6,Mechanical,Statistics
+1030,104,54.0,Tithi Ghosh,tithi1030@example.com,4,6,Mechanical,Data Analytics
+1030,105,57.0,Tithi Ghosh,tithi1030@example.com,4,6,Mechanical,Computer Networks
+1030,106,60.0,Tithi Ghosh,tithi1030@example.com,4,6,Mechanical,Mathematics

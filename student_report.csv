@@ -1,0 +1,31 @@
+student_id,Computer Networks,Data Analytics,Database Management,Mathematics,Python,Statistics,total_marks,percentage,grade,result,rank,student_name,department_id,department_name
+1001,37.0,95.0,89.0,40.0,86.0,92.0,439.0,73.17,B,FAIL,9,Aarav Sharma,1,Computer Science
+1002,44.0,41.0,35.0,47.0,93.0,38.0,298.0,49.67,D,FAIL,26,Ananya Das,1,Computer Science
+1003,51.0,48.0,42.0,54.0,39.0,45.0,279.0,46.5,D,FAIL,28,Rohan Roy,1,Computer Science
+1004,58.0,55.0,49.0,61.0,46.0,52.0,321.0,53.5,D,PASS,22,Priya Sen,1,Computer Science
+1005,65.0,62.0,56.0,68.0,53.0,59.0,363.0,60.5,C,PASS,17,Arjun Dey,1,Computer Science
+1006,72.0,69.0,63.0,75.0,60.0,66.0,405.0,67.5,C,PASS,13,Ishita Paul,1,Computer Science
+1007,79.0,76.0,70.0,82.0,67.0,73.0,447.0,74.5,B,PASS,8,Rahul Ghosh,1,Computer Science
+1008,86.0,83.0,77.0,89.0,74.0,80.0,489.0,81.5,A,PASS,3,Sneha Bose,1,Computer Science
+1009,93.0,90.0,84.0,35.0,81.0,87.0,470.0,78.33,B,FAIL,6,Aditya Roy,2,Information Technology
+1010,39.0,36.0,91.0,42.0,88.0,94.0,390.0,65.0,C,FAIL,14,Riya Das,2,Information Technology
+1011,46.0,43.0,37.0,49.0,95.0,40.0,310.0,51.67,D,FAIL,24,Sayan Mitra,2,Information Technology
+1012,53.0,50.0,44.0,56.0,41.0,47.0,291.0,48.5,D,PASS,27,Meera Dutta,2,Information Technology
+1013,60.0,57.0,51.0,63.0,48.0,54.0,333.0,55.5,D,PASS,21,Kunal Pal,2,Information Technology
+1014,67.0,64.0,58.0,70.0,55.0,61.0,375.0,62.5,C,PASS,16,Diya Sen,2,Information Technology
+1015,74.0,71.0,65.0,77.0,62.0,68.0,417.0,69.5,C,PASS,12,Ayan Ghosh,2,Information Technology
+1016,81.0,78.0,72.0,84.0,69.0,75.0,459.0,76.5,B,PASS,7,Nisha Roy,2,Information Technology
+1017,88.0,85.0,79.0,91.0,76.0,82.0,501.0,83.5,A,PASS,2,Soham Das,3,Electronics
+1018,95.0,92.0,86.0,37.0,83.0,89.0,482.0,80.33,A,FAIL,4,Tanya Paul,3,Electronics
+1019,41.0,38.0,93.0,44.0,90.0,35.0,341.0,56.83,D,FAIL,20,Abir Bose,3,Electronics
+1020,48.0,45.0,39.0,51.0,36.0,42.0,261.0,43.5,D,FAIL,30,Moumita Dey,3,Electronics
+1021,55.0,52.0,46.0,58.0,43.0,49.0,303.0,50.5,D,PASS,25,Ritwik Sen,3,Electronics
+1022,62.0,59.0,53.0,65.0,50.0,56.0,345.0,57.5,D,PASS,19,Srija Roy,3,Electronics
+1023,69.0,66.0,60.0,72.0,57.0,63.0,387.0,64.5,C,PASS,15,Debjit Pal,3,Electronics
+1024,76.0,73.0,67.0,79.0,64.0,70.0,429.0,71.5,B,PASS,11,Kavya Sharma,4,Mechanical
+1025,83.0,80.0,74.0,86.0,71.0,77.0,471.0,78.5,B,PASS,5,Vivek Das,4,Mechanical
+1026,90.0,87.0,81.0,93.0,78.0,84.0,513.0,85.5,A,PASS,1,Pallavi Roy,4,Mechanical
+1027,36.0,94.0,88.0,39.0,85.0,91.0,433.0,72.17,B,FAIL,10,Sourav Dey,4,Mechanical
+1028,43.0,40.0,95.0,46.0,92.0,37.0,353.0,58.83,D,FAIL,18,Aditi Bose,4,Mechanical
+1029,50.0,47.0,41.0,53.0,38.0,44.0,273.0,45.5,D,FAIL,29,Manish Sen,4,Mechanical
+1030,57.0,54.0,48.0,60.0,45.0,51.0,315.0,52.5,D,PASS,23,Tithi Ghosh,4,Mechanical
