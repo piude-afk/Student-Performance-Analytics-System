@@ -162,8 +162,6 @@ Through this project, I practised relational database design, SQL queries, data 
 
 ## Author
 
-**Name:** Your Name  
-**Roll Number:** Your Roll Number  
-**Course:** B.Tech  
+**Name:** Piu De
 **Project:** Student Performance Analytics System
 
